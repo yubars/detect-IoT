@@ -1,4 +1,4 @@
-# detect_IoT
+# detect-IoT
 Detect_IoT is a research work carried out by Yuba Siwakoti at the DoD Center of Excellence in AI &ML at Howard University to detect compromised IoT Infrastructures using public data available at https://data.europa.eu/data/datasets?keywords=variot&locale=en under the VARIoT project co-financed by the Connecting Europe Facility of the European Union.
 
 This work detects compromised IoT devices using machine learning techniques such as Artificial Neural Network, Decision Tree, and Random Forest and Ensemble methods. Performances are compared for metrics Accuracy, Precision, Recall, and F1-Score. Additionally, the significance of features is evaluated for the performance of the models and an enhanced curated (preprocessed, class-balanced, feature-reduced) dataset is presented for further research on IoT network behavior data. 
