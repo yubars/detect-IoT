@@ -56,4 +56,5 @@ The original dataset is taken from VARIoT https://data.europa.eu/data/datasets?k
 38.	smarttv-leotec-AndroidTvBoxGCX2432-compromised.tar.gz
 39.	smarttv-leotec-AndroidTvBoxGCX2432-normal-2.tar.gz
 40.	smarttv-leotec-AndroidTvBoxGCX2432-normal.tar.gz
-Please contact yubaraj@gmail.com if you have any questions or need additional info/data/processing.
+#contact
+Please contact yubaraj@gmail.com if you have any questions or need additional info/data/processing steps.
