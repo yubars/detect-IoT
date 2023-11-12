@@ -11,6 +11,7 @@ The accepted paper and enhanced dataset are available for personal/research use 
 # Citation
 Please cite this paper if you are referencing this paper with the citation format as shown below. Additionally, if you are using the enriched dataset available in this repo, please cite this paper along with two VARIoT (Original data taken from) as listed below.
 1. Yuba R. Siwakoti and Danda B. Rawat. 2023. Detect-IoT: A Comparative Analysis of Machine Learning Algorithms for Detecting Compromised IoT Devices. In Proceedings of the Twenty-fourth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc '23). Association for Computing Machinery, New York, NY, USA, 370–375. https://doi.org/10.1145/3565287.3616529
+   
 2. 2021. Data extraction laboratory - VARIoT. Retrieved May 10, 2023 from https://www.variot.eu/2021/10/07/data-extraction-laboratory/
 3. Universidad de Mondragón. 2021. IoT security - network traffic under normal and compromised conditions, Dataset. Retrieved May 10, 2023 from https://data.europa.eu/data/datasets?keywords=variot&locale=en
 
